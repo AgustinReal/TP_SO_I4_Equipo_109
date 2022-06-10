@@ -1,0 +1,19 @@
+"Nombres equipo 109":
+
+ALFA:
+Tomas Sanchez de Bustamante
+BETA:
+Luca Nahuel Agnoli
+GAMMA:
+Agustin Real
+
+Preguntas:
+
+A- ¿Qué color de fondo tiene su página en el TESTING ? 
+a)-Amarillo
+B- ¿Qué color de fondo tiene su página en el DESARROLLO ?
+b)-Amarillo
+C- ¿Qué color de fondo tiene su página en el MASTER?
+c)-Amarillo
+D- ¿Qué favicon quedó en el MASTER el de ALFA o el de BETA?
+d)-Quedo la imagen pinguinoAsesino.ico
