@@ -17,3 +17,18 @@ C- ¿Qué color de fondo tiene su página en el MASTER?
 c)-Amarillo
 D- ¿Qué favicon quedó en el MASTER el de ALFA o el de BETA?
 d)-Quedo la imagen pinguinoAsesino.ico
+E- ¿Algún integrante tuvo problemas al hacer el push?
+e) El problema que tuvimos que BETA y GAMMA, el push que hicieron fue rechazado. 
+F- ¿Qué problemas surgieron?
+f) Los problemas que surgieron fueron:
+* TESTING /merge -> error
+* rechazo los push 
+G- ¿Qué soluciones pueden aplicar y cual seria la consecuencia de cada solución
+adoptada?
+g) La solucion que utilizamos fue primero Alfa sube su nombre, etc en el index y hace un push y luego.
+modifica todo lo que esta adentro de <<< === >>> y luego aplicamos un push. 
+H- ¿Qué sucede si cada uno utiliza el push -f?
+h) Forzará el push al repositorio remoto y esto  borrará los commits de otros usuarios del repositorio  si aún no han pusheado estos.
+I- ¿Qué debo hacer para que el index.html tengas todos los <p> de los puntos 18,19 y 20
+en DESARROLLO ?
+i) Lo que planteamos fue que aplicamos la solucion del punto G.
